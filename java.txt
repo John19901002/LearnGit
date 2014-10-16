@@ -3,3 +3,4 @@ but i love zyy more
 i am using git
 git is a free software 
 it can help me control my lovely code...Oh Yeah!!!
+git has a mutable index called stage
